@@ -22,7 +22,7 @@ header {
     padding: 30px 10%;
 }
 
-.logo {
+.logo, .imageclass {
     cursor: pointer;
     margin-right: auto;
     padding-top: 10px;
